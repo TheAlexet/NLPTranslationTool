@@ -8,6 +8,7 @@ This tool uses the [DeepL API](https://www.deepl.com/pro-api?cta=header-pro-api/
 
 ## Clone
 You can clone the repository to your local machine with:
+
     ```
     git clone https://github.com/TheAlexet/NLPTranslationTool.git
     ```
